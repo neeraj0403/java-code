@@ -1,2 +1,2 @@
-# All solution of the  coding blocks problem is  here
+# All the medium level  solutions of coding blocks problems are here with an perfect and simple approach.
 
