@@ -2,10 +2,7 @@
 public class pattern32 {
 
 	public static void main(String[] args) {
-		int n=5;
-		int row=1;
-		int nst=1;
-		 int nsp=row-1;
+		int n=5,row=1,nst=1,nsp=row-1;
 		while(row<=2*n-1)
 		{
 			int cst=1;
@@ -15,10 +12,10 @@ public class pattern32 {
 			 cst++;
 			}
 			int csp=1;
-			
-			
+
+
 			row++;
-			if(row<=n-1) 
+			if(row<=n-1)
 			{
 				nst++;
 			}
@@ -26,7 +23,7 @@ public class pattern32 {
 				nst--;
 			System.out.println();
 		}
-		
+
 
 	}
 
